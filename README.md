@@ -29,67 +29,40 @@ Multer for handling file uploads (property images)
 Carousel for image display
 
 
-Getting Started:
-
-Prerequisites
-
-Node.js
-
-MongoDB Cluster
-
+# Getting Started:  
+Prerequisites  
+Node.js  
+MongoDB Cluster  
 Git
-
-
-Clone the repository:
-
-git clone https://github.com/venkatesh1220/DreamHome_Naan_Mudhalvan_MERN.git
-
-cd DreamHome_Naan_Mudhalvan_MERN
-
-
-# Install dependencies for both frontend and backend:
-
-
-# For backend
-cd backend
-npm install
-npm start
-
-# For frontend
-cd frontend
-npm install
-npm start
-
-
-Configure environment variables:
-
-Create a .env file in the server directory.
-
-
-Add the following keys in .env:
-
-MONGO_URI=<Your_MongoDB_Connection_String>
-
-JWT_SECRET=<Your_Secret_Key>
-
-PORT=8001
-
-http://localhost:3000
-
-📸 Screenshots
-
-Home Page
-
-Property Details
-
-Booking Form
-
-👥 Contributors
-Venkatesh K - Project Lead & Backend Developer
-Saran N - Frontend Developer
-Arun P - 
-Revanth Roshan R
-
-
-Inspired by the Naan Mudhalvan initiative.
+  
+Clone the repository:  
+git clone https://github.com/venkatesh1220/DreamHome_Naan_Mudhalvan_MERN.git  
+cd DreamHome_Naan_Mudhalvan_MERN  
+  
+# backend
+cd backend  
+npm install  
+npm start  
+  
+# frontend  
+cd frontend  
+npm install  
+npm start  
+  
+Configure environment variables:  
+Create a .env file in the server directory.  
+  
+Add the following keys in .env:  
+MONGO_URI=<Your_MongoDB_Connection_String>  
+JWT_SECRET=<Your_Secret_Key>  
+PORT=8001  
+http://localhost:3000  
+  
+Contributors
+Venkatesh K - Project Lead & Backend Developer   
+Saran N - Frontend Developer  
+Arun P -  Designer  
+Revanth Roshan R - Frontend Developer  
+  
+Inspired by the Naan Mudhalvan initiative.  
 Special thanks to the contributors and the community for support.
