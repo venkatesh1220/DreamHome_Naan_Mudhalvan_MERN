@@ -9,37 +9,23 @@ DreamHome is a full-stack web application developed using the MERN stack (MongoD
 
 Features:
 
-User Authentication: Secure login and signup functionality.
-
-Property Listings: View all available properties with images and detailed information.
-
-Dynamic Filters: Filter properties based on type, availability, or location.
-
-Property Details: Get detailed information, including price, owner contact, and additional features.
-
-Booking System: Users can submit their details to book a property.
-
-Admin Panel: Admins can manage property listings and view bookings.
-
-Responsive Design: Works seamlessly across devices.
-
-Tech Stack:
-
-Frontend: React.js, Bootstrap for UI components
-
-Backend: Node.js, Express.js
-
-Database: MongoDB (NoSQL)
-
-
-Others:
-
-Axios for HTTP requests
-
-JSON Web Tokens (JWT) for authentication
-
-Multer for handling file uploads (property images)
-
+User Authentication: Secure login and signup functionality.  
+Property Listings: View all available properties with images and detailed information.  
+Dynamic Filters: Filter properties based on type, availability, or location.  
+Property Details: Get detailed information, including price, owner contact, and additional features.  
+Booking System: Users can submit their details to book a property.  
+Admin Panel: Admins can manage property listings and view bookings.  
+Responsive Design: Works seamlessly across devices.  
+  
+Tech Stack:  
+Frontend: React.js, Bootstrap for UI components  
+Backend: Node.js, Express.js  
+Database: MongoDB (NoSQL)  
+  
+Others:  
+Axios for HTTP requests  
+JSON Web Tokens (JWT) for authentication  
+Multer for handling file uploads (property images)  
 Carousel for image display
 
 
