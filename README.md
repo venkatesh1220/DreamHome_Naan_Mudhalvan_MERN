@@ -8,6 +8,7 @@ Demo video : https://drive.google.com/drive/folders/1-3Z_DQVJA6UNE1FdsUrNCtR40UI
 DreamHome is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project is a comprehensive solution for managing property listings, enabling users to browse properties, view detailed information, and handle bookings efficiently.
 
 Features:
+
 User Authentication: Secure login and signup functionality.
 
 Property Listings: View all available properties with images and detailed information.
@@ -23,6 +24,7 @@ Admin Panel: Admins can manage property listings and view bookings.
 Responsive Design: Works seamlessly across devices.
 
 Tech Stack:
+
 Frontend: React.js, Bootstrap for UI components
 
 Backend: Node.js, Express.js
@@ -40,7 +42,9 @@ Multer for handling file uploads (property images)
 
 Carousel for image display
 
+
 Getting Started:
+
 Prerequisites
 
 Node.js
@@ -57,11 +61,8 @@ git clone https://github.com/venkatesh1220/DreamHome_Naan_Mudhalvan_MERN.git
 cd DreamHome_Naan_Mudhalvan_MERN
 
 
-Install dependencies for both frontend and backend:
+# Install dependencies for both frontend and backend:
 
-bash
-
-Copy code
 
 # For backend
 cd backend
@@ -73,16 +74,24 @@ cd frontend
 npm install
 npm start
 
+
 Configure environment variables:
+
 Create a .env file in the server directory.
 
+
 Add the following keys in .env:
+
 MONGO_URI=<Your_MongoDB_Connection_String>
+
 JWT_SECRET=<Your_Secret_Key>
+
 PORT=8001
 
 http://localhost:3000
+
 📸 Screenshots
+
 Home Page
 
 Property Details
@@ -90,9 +99,9 @@ Property Details
 Booking Form
 
 👥 Contributors
-Venkatesh K - Project Lead & Developer
-Saran N - 
-Arun P
+Venkatesh K - Project Lead & Backend Developer
+Saran N - Frontend Developer
+Arun P - 
 Revanth Roshan R
 
 
